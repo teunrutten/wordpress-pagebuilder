@@ -3,6 +3,10 @@
 This plugin allows you to easily add custom page blocks to wordpress pages and
 posts.
 
+## Credits
+
+This project was forked for Bureau Bright. (Original repository)[https://github.com/Corjen/wordpress-pageblocks] by Corjen.
+
 ## Installation
 
 Download this repo and add it to your plugins folder & activate in wp-admin, or
