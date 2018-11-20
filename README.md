@@ -5,7 +5,7 @@ posts.
 
 ## Credits
 
-This project was forked for Bureau Bright. (Original repository)[https://github.com/Corjen/wordpress-pageblocks] by Corjen.
+This project was forked for Bureau Bright. [Original repository](https://github.com/Corjen/wordpress-pageblocks) by Corjen.
 
 ## Installation
 
