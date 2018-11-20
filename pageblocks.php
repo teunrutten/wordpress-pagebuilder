@@ -2,8 +2,8 @@
 /*
 Plugin Name: Pageblocks
 Description: Add custom pageblocks to WordPress
-Version: 1.1.0
-Author: Corjen Moll
+Version: 1.4.0
+Author: Corjen Moll, Teun Rutten, Linsey Brander
 */
 
 add_action( 'plugins_loaded', function () {

@@ -1,8 +1,8 @@
 {
   "name": "wordpress-pageblocks",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "main": "index.js",
-  "repository": "https://github.com/Corjen/wordpress-pageblocks.git",
+  "repository": "https://github.com/teunrutten/wordpress-pageblocks.git",
   "author": "Corjen Moll <corjen@me.com>",
   "license": "MIT",
   "scripts": {
