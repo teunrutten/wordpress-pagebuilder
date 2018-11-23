@@ -28,13 +28,11 @@ class Config {
     $this->blocks = array(
       'test-block' => array(
         'class' => '\MyProject\Pageblocks\TestBlock', // 👈 Corresponding to your namespace and class name
-        'title' => 'Test page block',
-        'thumbnail' => 'http://placehold.it/150x75' // Optional
+        'title' => 'Test page block'
       ),
       'second-test-block' => array(
         'class' => '\MyProject\Pageblocks\SecondTestBlock',
-        'title' => 'Second Test page block',
-        'thumbnail' => 'http://placehold.it/150x75' // Optional
+        'title' => 'Second Test page block'
       )
     );
 

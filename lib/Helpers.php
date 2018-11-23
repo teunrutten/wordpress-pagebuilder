@@ -19,12 +19,10 @@ class Helpers {
   }
 
   private function _getPageBlockHeader( $count, $type, $uniqid, $title ) {
-    $thumbnail = isset( $this->blocks[$type]['thumbnail'] ) ? $this->blocks[$type]['thumbnail'] : '';
-
+    $title = ($title != '') ? '<span>'.$title.'</span>' : '';
     $html = '<header class="page-block-header js-toggle-pageblock-collapse" data-target="#' . $uniqid . '">' .
      '<div class="page-block-header-content u-flex u-flex-v-center">' .
-     '<img class="page-block-header__thumbnail" src="' . $thumbnail . '"/>' .
-     '<div class="page-block-header__title"><b>' . $this->blocks[$type]['title'] . '</b> ' . $title . '</div>' .
+     '<div class="page-block-header__title"><b>' . $this->blocks[$type]['title'] . '</b>' . $title . '</div>' .
      '</div>' .
      '<div class="page-block-utils u-flex">' .
         '<a class="page-block-utils__delete js-delete-pageblock" data-target="#' . $uniqid . '">verwijderen</a>' .

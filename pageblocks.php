@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Pageblocks
+Plugin URI: https://github.com/teunrutten/wordpress-pagebuilder
 Description: Add custom pageblocks to WordPress
-Version: 1.4.0
-Author: Corjen Moll, Teun Rutten, Linsey Brander
+Version: 1.5.1
+Author: Bureau Bright
+Author URI: https://github.com/teunrutten/
 */
 
 add_action( 'plugins_loaded', function () {
