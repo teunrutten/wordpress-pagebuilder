@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.1"></a>
+## 1.5.1 (2018-11-23)
+
+
+
+<a name="1.5.0"></a>
+## 1.5.0 (2018-11-23)
+
+### Features
+
+* Remove thumbnail option
+* Small css fixes
+
 <a name="1.4.0"></a>
 ## 1.4.0 (2018-11-20)
 
