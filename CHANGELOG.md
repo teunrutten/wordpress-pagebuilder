@@ -1,6 +1,13 @@
 # Change Log
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file.
+
+<a name="1.6.0"></a>
+## 1.5.1 (2019-07-05)
+
+### Features
+
+* Remove standard-version devDependency
 
 <a name="1.5.1"></a>
 ## 1.5.1 (2018-11-23)
